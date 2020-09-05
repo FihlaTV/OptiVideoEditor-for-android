@@ -1,6 +1,5 @@
 # OptiVideoEditor-for-Android
-
-OptiVideoEditor - This is a professional video edit app, it's an easy & practical video editing app for expertise & beginners.This is an awesome video editor with free video trimmer. Slow & fast motion, video trimming, video merge and more features, to help you to make great video show in one minute!
+QtuneVFX - This is a professional video edit app, it's an easy & practical video editing app for expertise & beginners.This is an awesome video editor with free video trimmer. Slow & fast motion, video trimming, video merge and more features, to help you to make great video show in one minute!
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/jaiobs/OptiVideoEditor-for-android/master/screenshots/home.png)
 ![Image of Yaktocat](https://raw.githubusercontent.com/jaiobs/OptiVideoEditor-for-android/master/screenshots/sticker.png)
